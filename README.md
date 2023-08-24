@@ -18,3 +18,6 @@ Components:
 - [x] Chunk Splitting and Padding - ~~basic~~
 - [x] CLI - ~~basic~~
 - [ ] AES-192 and AES-256 support
+- [ ] Multithreading
+- [ ] Add support for CTR/CBR mode
+- [ ] Randomly generate key and share with user
